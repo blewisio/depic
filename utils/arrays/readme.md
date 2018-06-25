@@ -2,4 +2,4 @@
 
 ## Modules
 
-* [random-item](https://www.npmjs.com/package/random-item) - get random array element
+* [random-item](https://github.com/sindresorhus/random-item) - get random array element
