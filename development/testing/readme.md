@@ -15,3 +15,4 @@ And...
 * [enzyme](https://github.com/airbnb/enzyme) - test React
 * [chai-enzyme](https://github.com/producthunt/chai-enzyme) - test assertions for React
 * [nyc](https://github.com/istanbuljs/nyc) - code coverage
+* [leakage](https://github.com/andywer/leakage) - test for memory leaks
