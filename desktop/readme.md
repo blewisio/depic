@@ -3,4 +3,4 @@
 ## Modules
 
 * [electron](https://github.com/electron/electron)
-* [electron-quick-start](https://github.com/electron/electron-quick-start)
+* [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - electron, react, redux, react-router, HMR in dev
