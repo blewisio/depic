@@ -3,4 +3,4 @@
 ## Modules
 
 * [react-native](https://github.com/facebook/react-native)
-* [react-router-native](https://github.com/ReactTraining/react-router)
+* [react-router-native](https://github.com/jmurzy/react-router-native)
