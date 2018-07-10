@@ -16,3 +16,4 @@ And...
 * [chai-enzyme](https://github.com/producthunt/chai-enzyme) - test assertions for React
 * [nyc](https://github.com/istanbuljs/nyc) - code coverage
 * [leakage](https://github.com/andywer/leakage) - test for memory leaks
+* [faker](https://github.com/Marak/Faker.js) - generate fake data
