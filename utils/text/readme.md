@@ -14,3 +14,4 @@ Utilities for manipulating strings.
 * [condense-whitespace](https://github.com/sindresorhus/condense-whitespace) - remove repeated inner whitespace
 * [remove-whitespace](https://github.com/javiercejudo/remove-whitespace) - remove all whitespace
 * [indent-string](https://github.com/sindresorhus/indent-string) - indent text
+* [direction](https://github.com/wooorm/direction) - detect language direction (LTR, RTL, etc.)
