@@ -2,5 +2,5 @@
 
 ## Modules
 
-* [np](https://www.npmjs.com/package/np) - improved `npm publish`
-* [lerna](https://www.npmjs.com/package/lerna) - monorepo package management
+* [np](https://github.com/sindresorhus/np) - improved `npm publish`
+* [lerna](https://github.com/lerna/lerna) - monorepo package management

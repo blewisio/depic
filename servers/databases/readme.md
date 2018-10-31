@@ -2,4 +2,4 @@
 
 ## Modules
 
-* [sequelize](https://www.npmjs.com/package/sequelize) - ORM for multiple DBs
+* [sequelize](https://github.com/sequelize/sequelize) - ORM for multiple DBs

@@ -2,4 +2,4 @@
 
 ## Modules
 
-* [temp-units-conv](https://www.npmjs.com/package/temp-units-conv) - convert between Fahrenheit/Celsius/kelvin
+* [temp-units-conv](https://github.com/mk-pmb/temp-units-conv-node) - convert between Fahrenheit/Celsius/kelvin
