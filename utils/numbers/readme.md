@@ -3,4 +3,4 @@
 ## Modules
 
 * [is-number](https://github.com/jonschlinkert/is-number)
-* [big-int](https://github.com/peterolson/BigInteger.js) 
+* [round-to](https://github.com/sindresorhus/round-to)
