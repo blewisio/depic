@@ -8,3 +8,4 @@
 
 * [serverless-offline](https://github.com/dherault/serverless-offline)
 * [serverless-webpack](https://github.com/serverless-heaven/serverless-webpack)
+* [serverless-prune-plugin](https://github.com/claygregory/serverless-prune-plugin)
