@@ -2,6 +2,7 @@
 
 ## Modules
 
+* [cookie](https://github.com/jshttp/cookie) - parse and set cookies
 * [passport](https://github.com/jaredhanson/passport) - authentication lib
 * [passport-local](https://github.com/jaredhanson/passport-facebook) - custom self auth strategy
 * [passport-facebook](https://github.com/jaredhanson/passport-facebook) - facebook auth strategy
