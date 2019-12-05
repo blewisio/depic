@@ -2,5 +2,5 @@
 
 ## Modules
 
-* [qs](https://github.com/ljharb/qs) - query string serializer/deserializer
+* [query-string](https://github.com/sindresorhus/query-string) - query string serializer/deserializer
 * [hotkeys](https://github.com/jaywcjlove/hotkeys) - capture keyboard shortcuts and execute functions
