@@ -1,6 +1,6 @@
 # hqm
 
-Curated list of **173** high-quality modules
+Curated list of **176** high-quality modules
 
 ## About
 
