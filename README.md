@@ -1,6 +1,6 @@
 # hqm
 
-Curated list of **188e** high-quality modules
+[Curated list](#directory) of **188** high-quality modules
 
 ## About
 
@@ -21,10 +21,6 @@ hqm is a hierarchical list of high-quality npm modules. Criteria for inclusion i
 * **Custom descriptions** - instead of using each module's own description, I've distilled the descriptions down to the parts that matter - no marketing or fluff.
 * **Greater breadth** - hqm is broken down into more sections than awesome-nodejs, covering more use cases *(coming soon)*
 
-## Contributions
-
-Know of a great emodule that isn't on the list? Submit a pull request!
-
 ## Directory
 
 * [algorithms](algorithms)
@@ -32,7 +28,7 @@ Know of a great emodule that isn't on the list? Submit a pull request!
   * [cryptography](algorithms/cryptography)
   * [linguistics](algorithms/linguistics)
   * [sorting](algorithms/sorting)
-* [structures](data-structures)
+* [data-structures](data-structures)
 * [desktop](desktop)
 * [development](development)
   * [build-tools](development/build-tools)
@@ -102,6 +98,10 @@ Know of a great emodule that isn't on the list? Submit a pull request!
   * [temperature](utils/temperature)
   * [text](utils/text)
   * [urls](utils/urls)
+
+## Contributions
+
+Know of a great emodule that isn't on the list? Submit a pull request!
 
 ## License
 
