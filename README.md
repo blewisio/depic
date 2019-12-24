@@ -12,6 +12,8 @@ hqm is a hierarchical list of high-quality npm modules. Criteria for inclusion i
 * has a short, descriptive name
 * has as few dependencies as possible
 * is based on modern code
+* is cross-platform
+* has type definitions
 
 ### How is this different than awesome-nodejs?
 
