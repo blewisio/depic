@@ -25,6 +25,8 @@ hqm is a hierarchical list of high-quality npm modules. Criteria for inclusion i
 
 ## Directory
 
+View directory readmes to see the module full list, descriptions, and related modules.
+
 * [algorithms](algorithms)
   * [caching](algorithms/caching)
     * [mem](https://github.com/sindresorhus/mem)
@@ -33,16 +35,20 @@ hqm is a hierarchical list of high-quality npm modules. Criteria for inclusion i
   * [linguistics](algorithms/linguistics)
     * [levenshtein-distance](https://github.com/hiddentao/fast-levenshtein)
   * [sorting](algorithms/sorting)
-    * [alpha-sort](https://github.com/sindresorhus/alpha-sort) - sort list alphabetically
+    * [alpha-sort](https://github.com/sindresorhus/alpha-sort)
 * [data-structures](data-structures)
-  * [bloomf](https://github.com/khalilw1/bloomf), [dinero](https://github.com/sarahdayan/dinero.js), [linked-list](https://github.com/wooorm/linked-list)
+  * [bloomf](https://github.com/khalilw1/bloomf), [dinero](https://github.com/sarahdayan/dinero.js), and [1 other](data-structures)
 * [desktop](desktop)
   * [electron](https://github.com/electron/electron), [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
 * [development](development)
   * [build-tools](development/build-tools)
+    * [webpack](https://github.com/webpack/webpack), [babel-loader], and [8 others](development/build-tools)
   * [cli](development/cli)
+    * [chalk](https://github.com/chalk/chalk), [commander](https://github.com/tj/commander.js), and [5 others](development/cli)
   * [documentation](development/documentation)
+    * [documentation.js](https://github.com/documentationjs/documentation)
   * [linting](development/linting)
+    * [eslint](https://github.com/eslint/eslint), [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint), and [6 others](development/linting)
   * [logging](development/logging)
   * [parsing](development/meta/parsing)
   * [testing](development/testing)
