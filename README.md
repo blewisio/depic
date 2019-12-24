@@ -27,11 +27,17 @@ hqm is a hierarchical list of high-quality npm modules. Criteria for inclusion i
 
 * [algorithms](algorithms)
   * [caching](algorithms/caching)
+    * [mem](https://github.com/sindresorhus/mem)
   * [cryptography](algorithms/cryptography)
+    * [bcrypt](https://github.com/dcodeIO/bcrypt.js)
   * [linguistics](algorithms/linguistics)
+    * [levenshtein-distance](https://github.com/hiddentao/fast-levenshtein)
   * [sorting](algorithms/sorting)
+    * [alpha-sort](https://github.com/sindresorhus/alpha-sort) - sort list alphabetically
 * [data-structures](data-structures)
+  * [bloomf](https://github.com/khalilw1/bloomf), [dinero](https://github.com/sarahdayan/dinero.js), [linked-list](https://github.com/wooorm/linked-list)
 * [desktop](desktop)
+  * [electron](https://github.com/electron/electron), [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
 * [development](development)
   * [build-tools](development/build-tools)
   * [cli](development/cli)
