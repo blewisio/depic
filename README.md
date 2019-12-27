@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **189** high-quality modules
+[Curated list](#directory) of **201** high-quality modules
 
 ## About
 
@@ -35,6 +35,7 @@ View directory readmes to see the module full list, descriptions, and related mo
 * [desktop](desktop)
   * [electron](https://github.com/electron/electron)
   * [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
+  * [and 12 others](desktop)
 * [development](development)
   * [build-tools](development/build-tools)
     * [webpack](https://github.com/webpack/webpack)
