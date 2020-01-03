@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **206** high-quality modules
+[Curated list](#directory) of **209** high-quality modules
 
 ## About
 
@@ -195,7 +195,8 @@ View directory readmes to see the module full list, descriptions, and related mo
   * [ip-address](utils/ip-address)
     * [internal-ip](https://github.com/sindresorhus/internal-ip)
     * [ip](https://github.com/indutny/node-ip)
-    * [public-ip](https://github.com/sindresorhus/public-ip)
+    * [ip-regex](https://github.com/sindresorhus/ip-regex)
+    * [and 3 others](utils/ip-address)
   * [language](utils/language)
   * [numbers](utils/numbers)
     * [is-number](https://github.com/jonschlinkert/is-number)
