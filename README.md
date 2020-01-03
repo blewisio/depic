@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **202** high-quality modules
+[Curated list](#directory) of **206** high-quality modules
 
 ## About
 
@@ -58,7 +58,7 @@ View directory readmes to see the module full list, descriptions, and related mo
   * [testing](development/testing)
     * [jest](https://github.com/facebook/jest)
     * [mocha](https://github.com/mochajs/mocha)
-    * [and 7 others](development/testing)
+    * [and 8 others](development/testing)
 * [domains](domains)
   * [blogs](domains/blogs)
     * [ghost](https://github.com/TryGhost/ghost-cli)
@@ -83,7 +83,9 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [sentiment](https://github.com/thisandagain/sentiment)
     * [stemmer](https://github.com/words/stemmer)
   * [networking](domains/networking)
+    * [default-gateway](https://github.com/silverwind/default-gateway)
     * [netcat](https://github.com/roccomuso/netcat)
+    * [and 3 others](domains/networking)
   * [science](domains/science)
     * [chemistry](domains/science/chemistry)
       * [elements](https://github.com/chemistry/elements)
