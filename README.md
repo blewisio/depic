@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **209** high-quality modules
+[Curated list](#directory) of **210** high-quality modules
 
 ## About
 
@@ -187,6 +187,7 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [date-time](https://github.com/sindresorhus/date-time)
     * [and 9 others](utils/currency)
   * [files](utils/files)
+    * [file-extension](https://github.com/silverwind/file-extension)
     * [yazl](https://github.com/thejoshwolfe/yazl)
     * [yauzl](https://github.com/thejoshwolfe/yauzl)
   * [html](utils/html)
