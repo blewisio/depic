@@ -2,6 +2,7 @@
 
 ## Modules
 
+* [add-subtract-date](https://github.com/IonicaBizau/add-subtract-date) - add units of time (ex. 3 days) to dates
 * [convert-hrtime](https://github.com/sindresorhus/convert-hrtime) - pretty high-resolution time as seconds, milliseconds, nanoseconds
 * [date-time](https://github.com/sindresorhus/date-time) - pretty datetime
 * [leap-year](https://github.com/sindresorhus/leap-year) - check if a year is a leap year
@@ -12,4 +13,4 @@
 * [time-zone](https://github.com/sindresorhus/time-zone) - human readable timezone
 * [to-milliseconds](https://github.com/sindresorhus/to-milliseconds) - convert time parts to milliseconds
 * [weeknumber](https://github.com/commenthol/weeknumber) - get week number or day number of the year
-* [year-days](https://github.com/sindresorhus/year-days) - getnumber of days in a particular year (365 vs. 366)
+* [year-days](https://github.com/sindresorhus/year-days) - get number of days in a particular year (365 vs. 366)

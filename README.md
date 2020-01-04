@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **210** high-quality modules
+[Curated list](#directory) of **211** high-quality modules
 
 ## About
 
@@ -183,9 +183,9 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [color-convert](https://github.com/Qix-/color-convert)
   * [currency](utils/currency)
   * [date-time](utils/date-time)
-    * [convert-hrtime](https://github.com/sindresorhus/convert-hrtime)
+    * [add-subtract-date](https://github.com/IonicaBizau/add-subtract-date)
     * [date-time](https://github.com/sindresorhus/date-time)
-    * [and 9 others](utils/currency)
+    * [and 10 others](utils/date-time)
   * [files](utils/files)
     * [file-extension](https://github.com/silverwind/file-extension)
     * [yazl](https://github.com/thejoshwolfe/yazl)
