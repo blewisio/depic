@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **211** high-quality modules
+[Curated list](#directory) of **220** high-quality modules
 
 ## About
 
@@ -186,6 +186,10 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [add-subtract-date](https://github.com/IonicaBizau/add-subtract-date)
     * [date-time](https://github.com/sindresorhus/date-time)
     * [and 10 others](utils/date-time)
+  * [errors](utils/errors)
+    * [aggregate-error](https://github.com/sindresorhus/aggregate-error)
+    * [clean-stack](https://github.com/sindresorhus/clean-stack)
+    * [and 7 others](utils/errors)
   * [files](utils/files)
     * [file-extension](https://github.com/silverwind/file-extension)
     * [yazl](https://github.com/thejoshwolfe/yazl)
