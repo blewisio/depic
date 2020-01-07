@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **220** high-quality modules
+[Curated list](#directory) of **221** high-quality modules
 
 ## About
 
@@ -192,8 +192,8 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [and 7 others](utils/errors)
   * [files](utils/files)
     * [file-extension](https://github.com/silverwind/file-extension)
-    * [yazl](https://github.com/thejoshwolfe/yazl)
-    * [yauzl](https://github.com/thejoshwolfe/yauzl)
+    * [unused-filename](https://github.com/sindresorhus/unused-filename)
+    * [and 2 others](utils/files)
   * [html](utils/html)
     * [jsdom](https://github.com/jsdom/jsdom)
     * [parse5](https://github.com/inikulin/parse5)
