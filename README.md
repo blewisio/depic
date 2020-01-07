@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **221** high-quality modules
+[Curated list](#directory) of **232** high-quality modules
 
 ## About
 
@@ -215,9 +215,9 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [condense-whitespace](https://github.com/sindresorhus/condense-whitespace)
     * [and 12 others](utils/text)
   * [urls](utils/urls)
-    * [is-relative-url](https://github.com/sindresorhus/is-relative-url)
-    * [is-absolute-url](https://github.com/sindresorhus/is-absolute-url)
-    * [and 2 others](utils/urls)
+    * [compare-urls](https://github.com/sindresorhus/compare-urls)
+    * [get-urls](https://github.com/sindresorhus/get-urls)
+    * [and 13 others](utils/urls)
 
 ## Contributions
 
