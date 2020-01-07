@@ -219,7 +219,7 @@ View directory readmes to see the module full list, descriptions, and related mo
 
 ## Contributions
 
-Know of a great emodule that isn't on the list? Submit a pull request!
+Know of a great module that isn't on the list? Submit a pull request!
 
 ### How is this different than awesome-nodejs?
 
@@ -227,7 +227,7 @@ Know of a great emodule that isn't on the list? Submit a pull request!
 * **Less redundancy** - not all modules can be equally awesome, so any redundancy likely means there are inferior options on the list. This leads to analysis paralysis when choosing an npm package to fulfill a particular need.
 * **More organization** - hqm is organized into a logical tree, which means finding a module for a certain purpose is easier (i.e. no Miscellaneous or "Mad Science" sections).
 * **Custom descriptions** - instead of using each module's own description, I've distilled the descriptions down to the parts that matter - no marketing or fluff.
-* **Greater breadth** - hqm is broken down into more sections than awesome-nodejs, covering more use cases *(coming soon)*
+* **Greater breadth** - hqm is broken down into more sections than awesome-nodejs, covering more use cases
 
 ## License
 
