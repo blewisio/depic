@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **232** high-quality modules
+[Curated list](#directory) of **245** high-quality modules
 
 ## About
 
@@ -204,6 +204,7 @@ View directory readmes to see the module full list, descriptions, and related mo
   * [numbers](utils/numbers)
     * [is-number](https://github.com/jonschlinkert/is-number)
     * [round-to](https://github.com/sindresorhus/round-to)
+    * [and 13 others](utils/numbers)
   * [regex](utils/regex)
     * [xregexp](https://github.com/slevithan/xregexp)
   * [temperature](utils/temperature)
