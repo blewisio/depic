@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **245** high-quality modules
+[Curated list](#directory) of **260** high-quality modules
 
 ## About
 
@@ -205,6 +205,10 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [is-number](https://github.com/jonschlinkert/is-number)
     * [round-to](https://github.com/sindresorhus/round-to)
     * [and 13 others](utils/numbers)
+  * [objects](utils/objects)
+    * [camelcase-keys](https://github.com/sindresorhus/camelcase-keys)
+    * [dot-prop](https://github.com/sindresorhus/dot-prop)
+    * [and 13 others](utils/objects)
   * [regex](utils/regex)
     * [xregexp](https://github.com/slevithan/xregexp)
   * [temperature](utils/temperature)
