@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **293** high-quality modules
+[Curated list](#directory) of **317** high-quality modules
 
 ## About
 
@@ -44,7 +44,7 @@ View directory readmes to see the module full list, descriptions, and related mo
   * [cli](development/cli)
     * [chalk](https://github.com/chalk/chalk)
     * [commander](https://github.com/tj/commander.js)
-    * [and 5 others](development/cli)
+    * [and 31 others](development/cli)
   * [documentation](development/documentation)
     * [documentation.js](https://github.com/documentationjs/documentation)
   * [linting](development/linting)
