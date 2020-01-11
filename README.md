@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **317** high-quality modules
+[Curated list](#directory) of **318** high-quality modules
 
 ## About
 
@@ -47,6 +47,7 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [and 31 others](development/cli)
   * [documentation](development/documentation)
     * [documentation.js](https://github.com/documentationjs/documentation)
+    * [json2md](https://github.com/IonicaBizau/json2md)
   * [linting](development/linting)
     * [eslint](https://github.com/eslint/eslint)
     * [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
