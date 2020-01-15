@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **317** high-quality modules
+[Curated list](#directory) of **316** high-quality modules
 
 ## About
 
@@ -53,9 +53,14 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
     * [and 6 others](development/linting)
   * [logging](development/logging)
-  * [parsing](development/meta/parsing)
-    * [acorn](https://github.com/acornjs/acorn)
-    * [acorn-jsx](https://github.com/RReverser/acorn-jsx)
+  * [meta](development/meta)
+    * [publishing](development/meta/publishing)
+      * [np](https://github.com/sindresorhus/np)
+    * [parsing](development/meta/parsing)
+      * [acorn](https://github.com/acornjs/acorn)
+      * [acorn-jsx](https://github.com/RReverser/acorn-jsx)
+    * [repos]
+      * [lerna](https://github.com/lerna/lerna)
   * [testing](development/testing)
     * [jest](https://github.com/facebook/jest)
     * [mocha](https://github.com/mochajs/mocha)
