@@ -11,7 +11,7 @@
 * [normalize-url](https://github.com/sindresorhus/normalize-url) - normalize a URL
 * [prepend-http](https://github.com/sindresorhus/prepend-http) - prepend https:// to shortened URLs (including localhost)
 * [protocolify](https://github.com/sindresorhus/protocolify) - prepend https:// to shortened URLs (including file paths)
-* [slugify](https://github.com/pid/speakingurl) - create an SEO-friendly URL
+* [speakingurl](https://github.com/pid/speakingurl) - create an SEO-friendly URL
 * [strip-url-auth](https://github.com/sindresorhus/strip-url-auth) - strip the authentication part of a URL
 * [truncate-url](https://github.com/sindresorhus/truncate-url) - truncate a URL to a specific length
 * [url-format-lax](https://github.com/sindresorhus/url-format-lax) - lax url.format() that formats a hostname and port into IPv6-compatible socket form of hostname:port
