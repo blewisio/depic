@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **316** high-quality modules
+[Curated list](#directory) of **317** high-quality modules
 
 ## About
 
@@ -87,7 +87,7 @@ View directory readmes to see the module full list, descriptions, and related mo
   * [natural-language](domains/natural-language)
     * [franc](https://github.com/wooorm/franc)
     * [sentiment](https://github.com/thisandagain/sentiment)
-    * [stemmer](https://github.com/words/stemmer)
+    * [and 2 others](https://github.com/words/syllable)
   * [networking](domains/networking)
     * [default-gateway](https://github.com/silverwind/default-gateway)
     * [netcat](https://github.com/roccomuso/netcat)
