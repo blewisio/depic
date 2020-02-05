@@ -2,5 +2,5 @@
 
 ## Modules
 
-* [express](https://github.com/expressjs/express)
-* [hapi](https://github.com/hapijs/hapi)
+* [express](https://github.com/expressjs/express) - web server
+* [hapi](https://github.com/hapijs/hapi) - web server

@@ -2,7 +2,7 @@
 
 ## Modules
 
-* [electron](https://github.com/electron/electron)
+* [electron](https://github.com/electron/electron) - build desktop apps
 * [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc)
 * [electron-config](https://github.com/sindresorhus/electron-config)
 * [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)
