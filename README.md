@@ -59,7 +59,7 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [parsing](development/meta/parsing)
       * [acorn](https://github.com/acornjs/acorn)
       * [acorn-jsx](https://github.com/RReverser/acorn-jsx)
-    * [repos]
+    * [repos](development/meta/repos)
       * [lerna](https://github.com/lerna/lerna)
   * [testing](development/testing)
     * [jest](https://github.com/facebook/jest)
@@ -135,7 +135,7 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
   * [data](http/data)
     * [form-data](https://github.com/form-data/form-data)
-  * [requests]
+  * [requests](http/requests)
     * [got](https://github.com/sindresorhus/got)
     * [ky](https://github.com/sindresorhus/ky)
     * [ky-universal](https://github.com/sindresorhus/ky-universal)
@@ -174,7 +174,7 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [mongodb](servers/databases/mongodb)
       * [mongodb](https://github.com/mongodb/node-mongodb-native)
       * [mongoose](https://github.com/Automattic/mongoose)
-    * [orms]
+    * [orms](servers/databases/orms)
       * [sequelize](https://github.com/sequelize/sequelize)
     * [postgres](servers/databases/postgres)
       * [pg-promise](https://github.com/vitaly-t/pg-promise)
