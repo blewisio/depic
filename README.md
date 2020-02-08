@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **317** high-quality modules
+[Curated list](#directory) of **362** high-quality modules
 
 ## About
 
@@ -194,6 +194,10 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [array-shuffle](https://github.com/sindresorhus/array-shuffle)
     * [chunk](https://github.com/ryancole/chunk)
     * [random-item](https://github.com/sindresorhus/random-item)
+  * [async](utils/async)
+    * [promise-time](https://github.com/sindresorhus/promise-time)
+    * [promise-whilst](https://github.com/sindresorhus/promise-whilst)
+    * [and 43 others](utils/async)
   * [colors](utils/colors)
     * [color-convert](https://github.com/Qix-/color-convert)
   * [currency](utils/currency)
