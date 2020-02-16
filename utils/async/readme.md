@@ -2,6 +2,7 @@
 
 ## Modules 
 
+* [delay](https://github.com/sindresorhus/delay) - delay execution for a specified number of milliseconds
 * [promise-time](https://github.com/sindresorhus/promise-time) - measure the time a Promise takes to resolve
 * [promise-whilst](https://github.com/sindresorhus/promise-whilst) - calls a function repeatedly while a condition returns true and then resolves the promise
 * [p-all](https://github.com/sindresorhus/p-all) - run promise-returning & async functions concurrently with optional limited concurrency
