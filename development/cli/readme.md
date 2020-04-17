@@ -9,6 +9,7 @@
 * [cli-boxes](https://github.com/sindresorhus/cli-boxes) - boxes for use in the terminal
 * [cli-cursor](https://github.com/sindresorhus/cli-cursor) - toggle the CLI cursor
 * [cli-spinners](https://github.com/sindresorhus/cli-spinners) - spinners for use in the terminal
+* [cli-table3](https://github.com/cli-table/cli-table3) - print customizable tables to the CLI
 * [cli-truncate](https://github.com/sindresorhus/cli-truncate) - truncate a string to a specific width in the terminal
 * [commander](https://github.com/tj/commander.js) - CLI builder
 * [dargs](https://github.com/sindresorhus/dargs) - convert an object of options into an array of command-line arguments
