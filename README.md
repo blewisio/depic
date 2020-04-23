@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **364** high-quality modules
+[Curated list](#directory) of **365** high-quality modules
 
 ## About
 
@@ -212,7 +212,7 @@ View directory readmes to see the module full list, descriptions, and related mo
   * [files](utils/files)
     * [file-extension](https://github.com/silverwind/file-extension)
     * [fs-jetpack](https://github.com/szwacz/fs-jetpack)
-    * [and 3 others](utils/files)
+    * [and 4 others](utils/files)
   * [html](utils/html)
     * [jsdom](https://github.com/jsdom/jsdom)
     * [parse5](https://github.com/inikulin/parse5)
