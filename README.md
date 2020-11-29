@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **365** high-quality modules
+[Curated list](#directory) of **372** high-quality modules
 
 ## About
 
@@ -102,6 +102,8 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [nhl-teams](https://github.com/mattjennings/team-finder)
   * [statistics](domains/statistics)
     * [get-normal-distribution](https://github.com/janjarfalk/get-normal-distribution)
+    * [just-mean](https://www.npmjs.com/package/just-mean)
+    * [and 6 others](domains/statistics)
 * [frontend](frontend)
   * [state-management](frontend/state-management)
     * [redux](https://github.com/reduxjs/redux)
