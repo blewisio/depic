@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **372** high-quality modules
+[Curated list](#directory) of **373** high-quality modules
 
 ## About
 
@@ -155,7 +155,7 @@ View directory readmes to see the module full list, descriptions, and related mo
   * [images](media/images)
     * [image-size](https://github.com/image-size/image-size)
     * [images](https://github.com/zhangyuanwei/node-images)
-    * [and 2 others](media/images)
+    * [and 3 others](media/images)
   * [video](media/video)
 * [mobile](mobile)
   * [react-native](https://github.com/facebook/react-native)
