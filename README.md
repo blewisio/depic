@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **373** high-quality modules
+[Curated list](#directory) of **374** high-quality modules
 
 ## About
 
@@ -224,6 +224,8 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [ip-regex](https://github.com/sindresorhus/ip-regex)
     * [and 3 others](utils/ip-address)
   * [language](utils/language)
+  * [markdown](utils/markdown)
+    * [marked](https://github.com/markedjs/marked)
   * [numbers](utils/numbers)
     * [is-number](https://github.com/jonschlinkert/is-number)
     * [round-to](https://github.com/sindresorhus/round-to)
