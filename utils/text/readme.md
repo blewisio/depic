@@ -6,6 +6,7 @@ Utilities for manipulating strings.
 
 * [camelcase](https://github.com/sindresorhus/camelcase) - convert to camel case or pascal case
 * [condense-whitespace](https://github.com/sindresorhus/condense-whitespace) - remove repeated inner whitespace
+* [csv](https://github.com/adaltas/node-csv) - parse or generate .csv
 * [decamelize](https://github.com/sindresorhus/decamelize) - convert from camel case to other case
 * [detect-newline](https://github.com/sindresorhus/detect-newline) - detect the dominant newline character of a string
 * [direction](https://github.com/wooorm/direction) - detect language direction (LTR, RTL, etc.)

@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **374** high-quality modules
+[Curated list](#directory) of **375** high-quality modules
 
 ## About
 
@@ -241,7 +241,7 @@ View directory readmes to see the module full list, descriptions, and related mo
   * [text](utils/text)
     * [camelcase](https://github.com/sindresorhus/camelcase)
     * [condense-whitespace](https://github.com/sindresorhus/condense-whitespace)
-    * [and 44 others](utils/text)
+    * [and 45 others](utils/text)
   * [urls](utils/urls)
     * [compare-urls](https://github.com/sindresorhus/compare-urls)
     * [get-urls](https://github.com/sindresorhus/get-urls)
