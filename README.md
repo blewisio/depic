@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **375** high-quality modules
+[Curated list](#directory) of **374** high-quality modules
 
 ## About
 
@@ -64,7 +64,7 @@ View directory readmes to see the module full list, descriptions, and related mo
   * [testing](development/testing)
     * [jest](https://github.com/facebook/jest)
     * [mocha](https://github.com/mochajs/mocha)
-    * [and 8 others](development/testing)
+    * [and 7 others](development/testing)
 * [domains](domains)
   * [blogs](domains/blogs)
     * [ghost](https://github.com/TryGhost/ghost-cli)
