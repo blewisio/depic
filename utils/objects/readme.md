@@ -8,6 +8,7 @@
 * [invert-kv](https://github.com/sindresorhus/invert-kv) - invert the keys/values of an object
 * [is-obj](https://github.com/sindresorhus/is-obj) - check if a value is an object
 * [is-plain-obj](https://github.com/sindresorhus/is-plain-obj) - check if a value is a plain object
+* [joi](https://github.com/sideway/joi) - schema and object validation
 * [known](https://github.com/sindresorhus/known) - allow only access to known object properties using ES2015 Proxy
 * [lowercase-keys](https://github.com/sindresorhus/lowercase-keys) - lowercase the keys of an object
 * [map-obj](https://github.com/sindresorhus/map-obj) - map object keys/values into a new object
