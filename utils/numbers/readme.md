@@ -17,3 +17,4 @@
 * [random-int](https://github.com/sindresorhus/random-int) - generate a random integer
 * [round-to](https://github.com/sindresorhus/round-to) - round a number to a specified number of digits
 * [unique-random](https://github.com/sindresorhus/unique-random) - generate random numbers that are consecutively unique
+* [uuid](https://github.com/uuidjs/uuid) - generate guid/uuid
