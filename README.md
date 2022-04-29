@@ -1,6 +1,6 @@
 # hqm
 
-[Curated list](#directory) of **371** high-quality modules
+[Curated list](#directory) of **370** high-quality modules
 
 ## About
 
@@ -59,8 +59,6 @@ View directory readmes to see the module full list, descriptions, and related mo
     * [parsing](development/meta/parsing)
       * [acorn](https://github.com/acornjs/acorn)
       * [acorn-jsx](https://github.com/RReverser/acorn-jsx)
-    * [repos](development/meta/repos)
-      * [lerna](https://github.com/lerna/lerna)
   * [testing](development/testing)
     * [jest](https://github.com/facebook/jest)
     * [@testing-library/react](https://github.com/testing-library/react-testing-library)
